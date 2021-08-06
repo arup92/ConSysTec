@@ -408,6 +408,7 @@ img {
   padding-bottom: 4rem;
 }
 .ct-service-area .ct-service h3 {
+  font-family: "Montserrat", sans-serif;
   margin-top: 1rem;
 }
 .ct-read-more {
@@ -419,6 +420,7 @@ img {
 .ct-read-more a {
   color: #B41E78;
   margin-left: .5rem;
+  text-decoration: none;
 }
 .ct-read-more img {
   max-width: .9rem;
@@ -494,12 +496,12 @@ footer .ct-social img {
   padding-bottom: 4rem;
 }
 .ct-about-section .ct-img-icon {
-  padding: 1rem;
+  padding: 1.2rem;
   background-color: #d8d8d8;
   border: 3px solid #b41e78;
   border-radius: 100px;
-  width: 57px;
-  height: 57px;
+  width: 65px;
+  height: 65px;
 }
 .ct-about-section .ct-building-icon img {
   margin-top: -3px;
@@ -509,6 +511,9 @@ ul li {
 }
 .ct-ha-content {
   margin-top: 4rem;
+}
+.ct-ha .ct-divider {
+  margin-bottom: 6rem;
 }
 @media (max-width: 991.98px) {
   .cta-btn a {
